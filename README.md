@@ -1,4 +1,9 @@
 # AI Support Ticket Automation
+## Project Artifact
+
+📄 **AI-Powered Customer Support Workflow**
+
+[View the full project deck](AI-Powered Customer Support Workflow.pdf)
 
 ## Overview
 This project demonstrates an end-to-end AI-powered automation system for
